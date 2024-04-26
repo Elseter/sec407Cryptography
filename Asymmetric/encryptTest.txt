@@ -1,0 +1,7 @@
+This is a file to test encrypting a file with a symmetric key
+Then encrypting the symmetric key with an asymmetric key
+Then decrypting the symmetric key with the asymmetric key
+Then decrypting the file with the symmetric key
+
+Yeah, it's a little messy, but it works
+- Riley
